@@ -2,7 +2,6 @@
     <h1 class="text-center text-xl sm:text-2xl py-12 font-bold text-gray-800 uppercase">
         Links <span class="text-[#b20000]">Úteis</span>
     </h1>
-
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 px-8 sm:px-32 gap-6 pb-12">
         @php
             $cards = [
