@@ -30,4 +30,8 @@
     </div>
 
     <livewire:components.home.motivation-study/>
+    <livewire:components.home.promotion-banner/>
+    <livewire:components.banner-social-media/>
+    <livewire:components.useful-links/>
+    <livewire:components.events-calendar/>
 </div>
