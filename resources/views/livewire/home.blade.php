@@ -34,4 +34,5 @@
     <livewire:components.banner-social-media/>
     <livewire:components.useful-links/>
     <livewire:components.events-calendar/>
+    <livewire:components.external-class/>
 </div>

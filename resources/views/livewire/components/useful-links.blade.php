@@ -19,7 +19,7 @@
         @foreach ($cards as $title => $link)
             <a href="{{ $link }}" target="_blank" class="group relative backdrop-blur-md bg-white/70 rounded-md shadow-md px-10 py-8 flex flex-col items-center justify-between text-center transition-all duration-300 ease-in-out hover:shadow-lg hover:-translate-y-1 no-underline">
                 <!-- Top border effect on hover -->
-                <div class="absolute top-0 left-0 w-full h-1 bg-transparent group-hover:bg-[#b20000] transition-all duration-300 rounded-t-md"></div>
+                <div class="absolute top-0 left-0 w-full h-1 bg-transparent group-hover:bg-[#015724] transition-all duration-300 rounded-t-md"></div>
 
                 <div class="flex flex-col items-center">
                     <span class="mb-4">
