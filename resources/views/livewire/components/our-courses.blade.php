@@ -1,18 +1,17 @@
 <div class="bg-gray-200">
     <h1 class="text-center text-xl sm:text-2xl py-12 font-bold text-gray-800 uppercase">
-        Links <span class="text-[#015724]">Úteis</span>
+        Nossos Cursos <span class="text-[#015724]">Úteis</span>
     </h1>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 px-8 sm:px-32 gap-6 pb-12">
         @php
             $cards = [
-                'Concurso Público' => 'https://example.com/concurso-publico',
-                'Processo Seletivo' => 'https://example.com/processo-seletivo',
-                'Vagas Remanescentes' => 'https://example.com/vagas-remanescentes',
-                'Vestibulinho' => 'https://example.com/vestibulinho',
-                'Calendário Escolar' => 'https://example.com/calendario-escolar',
-                'NSA' => 'https://example.com/nsa',
-                'E-mail Institucional' => 'https://example.com/email-institucional',
-                'Acessibilidade' => 'https://example.com/acessibilidade',
+                'Administração' => 'https://example.com/concurso-publico',
+                'Agropecuária' => 'https://example.com/processo-seletivo',
+                'Desenvolvimento de Sistemas' => 'https://example.com/vagas-remanescentes',
+                'Informática para Internet' => 'https://example.com/vestibulinho',
+                'Logística' => 'https://example.com/calendario-escolar',
+                'Recursos Humanos' => 'https://example.com/nsa',
+                'Serviços Jurídicos' => 'https://example.com/email-institucional',
             ];
         @endphp
 

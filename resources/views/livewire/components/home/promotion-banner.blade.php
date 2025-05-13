@@ -19,7 +19,7 @@
                 A plataforma já pode ser acessada por estudantes das unidades de ensino do CPS, como a <strong>ETEC</strong> e a <strong>FATEC</strong>.
             </p>
 
-            <button class="bg-[#b20000] px-10 py-2 mt-6 rounded-md hover:bg-gray-600 transition-colors duration-200">
+            <button class="bg-[#015724] px-10 py-2 mt-6 rounded-md hover:bg-gray-600 transition-colors duration-200">
                 <p class="font-bold text-white text-base md:text-lg">Clique e saiba mais</p>
             </button>
         </div>

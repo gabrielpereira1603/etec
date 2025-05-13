@@ -24,7 +24,7 @@
             }
         </style>
         <h1 class="text-center text-xl sm:text-2xl py-12 font-bold text-gray-800 uppercase">
-            Motivos para estudar na <span class="text-[#b20000]">ETEC</span>
+            Motivos para estudar na <span class="text-[#015724]">ETEC</span>
         </h1>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-8 sm:px-32 gap-4 py-4">
@@ -33,7 +33,7 @@
                 <div class="flip-card-inner w-full h-full transition-transform duration-500 transform-style preserve-3d">
                     <div class="flip-card-front absolute w-full h-full bg-white rounded-none shadow-md flex flex-col items-center justify-center text-gray-800 font-bold text-base backface-hidden">
                         <span class="mb-5">
-                            <x-workshop-icon width="50px" height="50px" color="currentColo"/>
+                            <x-workshop-icon width="50px" height="50px" color="#015724"/>
                         </span>
                         <p class="text-center text-gray-900">
                             Excelentes professores
@@ -42,7 +42,7 @@
                             Qualificados e sempre atualizados
                         </p>
                     </div>
-                    <div class="flip-card-back absolute w-full h-full bg-[#b20000] text-white rounded-none shadow-md flex items-center justify-center text-sm backface-hidden rotate-y-180">
+                    <div class="flip-card-back absolute w-full h-full bg-[#015724] text-white rounded-none shadow-md flex items-center justify-center text-sm backface-hidden rotate-y-180">
                         Professores capacitados e estrutura moderna!
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                 <div class="flip-card-inner w-full h-full transition-transform duration-500 transform-style preserve-3d">
                     <div class="flip-card-front absolute w-full h-full bg-white rounded-none shadow-md flex flex-col items-center gap-1 justify-center text-gray-800 font-bold text-base backface-hidden">
                         <span class="mb-5">
-                            <x-course-icon width="50px" height="50px" color="currentColo"/>
+                            <x-course-icon width="50px" height="50px" color="#015724"/>
                         </span>
                         <p class="text-center text-gray-900">
                             Ensino de qualidade
@@ -62,7 +62,7 @@
                             Aprovado por 100% dos nossos alunos
                         </p>
                     </div>
-                    <div class="flip-card-back absolute w-full h-full bg-[#b20000] text-white rounded-none shadow-md flex items-center justify-center text-sm backface-hidden rotate-y-180">
+                    <div class="flip-card-back absolute w-full h-full bg-[#015724] text-white rounded-none shadow-md flex items-center justify-center text-sm backface-hidden rotate-y-180">
                         Ensino técnico de qualidade totalmente gratuito!
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                 <div class="flip-card-inner w-full h-full transition-transform duration-500 transform-style preserve-3d">
                     <div class="flip-card-front absolute w-full h-full bg-white rounded-none shadow-md flex flex-col items-center justify-center text-gray-800 font-bold text-base backface-hidden">
                         <span class="mb-5">
-                            <x-teacher-icon width="50px" height="50px" color="currentColo"/>
+                            <x-teacher-icon width="50px" height="50px" color="#015724"/>
                         </span>
                         <p class="text-center text-gray-900">
                             Oportunidades
@@ -82,7 +82,8 @@
                             Alta empregabilidade e valorização no mercado!
                         </p>
                     </div>
-                    <div class="flip-card-back absolute w-full h-full bg-[#b20000] text-white rounded-none shadow-md flex items-center justify-center text-sm backface-hidden rotate-y-180">
+                    <div class="flip-card-back absolute w-full h-full bg-[#015724] text-white rounded-none shadow-md flex items-center justify-center text-sm backface-hidden rotate-y-180">
+                        Ensino técnico de qualidade totalmente gratuito!
                     </div>
                 </div>
             </div>
