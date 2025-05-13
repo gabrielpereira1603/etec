@@ -26,7 +26,15 @@
                             [
                                 'label' => 'Nossos Cursos',
                                 'icon' => 'course-icon',
-                                'items' => ['Curso 1', 'Curso 2']
+                                'items' => [
+                                    'Administração',
+                                    'Agropecuária',
+                                    'Logística',
+                                    'Serviços Jurídicos',
+                                    'Recursos Humanos',
+                                    'Informática para Internet',
+                                    'Desenvolvimento de Sistemas',
+                                ]
                             ],
                             [
                                 'label' => 'Instituição Auxiliar',

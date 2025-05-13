@@ -25,5 +25,7 @@
                 {{ $slot }}
             </div>
         </div>
+
+        <livewire:components.footer/>
     </body>
 </html>
